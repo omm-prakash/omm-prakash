@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Omm Prakash, a final year student from **Indian Institute of Technology (BHU), Varanasi**. Please have look on my repo and feel free to contact me at ommprakash2568@gmail.com.  
 <!--
 **omm-prakash/omm-prakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
